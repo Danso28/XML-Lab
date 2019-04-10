@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT contact (name,phone,description,linkedin,github)>
+<!ATTLIST contact
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT linkedin (#PCDATA)>
+<!ATTLIST linkedin
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT github (#PCDATA)>
+<!ATTLIST github
+  xmlns CDATA #FIXED ''>

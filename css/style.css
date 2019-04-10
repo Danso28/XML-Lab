@@ -1,0 +1,105 @@
+/*
+https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/
+*/
+
+#title{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 30px;
+
+}
+
+body{
+  font-family: 'Playfair Display', serif;
+}
+#bird{
+  height: 300px;
+  width: 200px;
+}
+#birdtwo{
+  height: 400px;
+  width: 300px;
+}
+#Personal{
+  background-color: #ffff;
+
+}
+#Personal div>h5{
+  font-weight: bold;
+  background-color: #ffff;
+  font-size: 20px;
+}
+#Education{
+  background-color: #A9A9A9;
+}
+#Education div >h5 {
+  color: #000;
+  font-weight: bold;
+}
+#Education div >p {
+  color: #000;
+}
+#Experience{
+color: #f1bd13;
+background-color: #000;
+}
+#Experience div >h5{
+  color: #f1bd13;
+}
+#Experience div >ul{
+  color: #f1bd13;
+}
+#Projects{
+    background-color: #A9A9A9;
+  }
+#Projects div >h5 {
+    color: #000;
+
+  }
+#Projects div >p {
+    color: #000;
+    font-weight: bold;
+  }
+#Skills{
+  background-color: #ffff;
+  /*font-weight: bold;*/
+  color: #000;
+}
+#Skills div{
+  color: #000;
+  font-weight: 15px;
+}
+#logo-icon{
+  height: 50px;
+  width: 50px;
+}
+#branchleaf{
+  height: 400px;
+  width: 300px;
+}
+#tree{
+
+}
+.hero-image {
+background: url("../image/heading.png");
+background-size: contain;
+background-repeat: no-repeat;
+height: 500px;
+}
+.hero-image div>h1 {
+text-align: right;
+}
+.hero-button {
+    text-align: center;
+    background: #000;
+    color: #f1bd13;
+}
+.hero-button:hover {
+    background-color: #A9A9A9;
+    color: #000;
+}
+
+.heading {
+  background-image: linear-gradient(to bottom right, #f2a41c, #f1bd13);
+  position: relative;
+  background-size: cover;
+}

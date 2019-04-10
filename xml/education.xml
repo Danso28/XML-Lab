@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Education SYSTEM "./dtd/education.dtd">
+<Education>
+  <school>
+    <name>Alfred State College - SUNY College of Technology</name>
+    <major>Information Technology:Application Software Development(BTech)</major>
+    <minor>Information Technology:Web Development</minor>
+    <duration>2015 - 2019</duration>
+  </school>
+  <school>
+    <name>Alfred University - NYS College of Ceramics </name>
+    <major>Materials Science and Engineering (BS)</major>
+    <minor>Physics</minor>
+    <duration>2005 - 2010</duration>
+  </school>
+</Education>

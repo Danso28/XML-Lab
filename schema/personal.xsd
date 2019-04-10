@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://verdansoh/personalSchema"
+targetNamespace="https://veradansoh.com"
+xmlns="https://veradansoh.com"
+elementFormDefault="qualified">
+
+<xs:element name="note">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="phone" type="xs:string"/>
+      <xs:element name="description" type="xs:string"/>
+      <xs:element name="linkedin" type="xs:string"/>
+      <xs:element name="github" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>

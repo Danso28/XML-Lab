@@ -1,0 +1,26 @@
+
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Education (school)+>
+<!ATTLIST Education
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT school (name,major,minor,duration)>
+<!ATTLIST school
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT major (#PCDATA)>
+<!ATTLIST major
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT minor (#PCDATA)>
+<!ATTLIST minor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT duration (#PCDATA)>
+<!ATTLIST duration
+  xmlns CDATA #FIXED ''>

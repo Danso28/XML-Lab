@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Experience (company)+>
+<!ATTLIST Experience
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT company (name,duration,location,taskone,tasktwo,taskthree)>
+<!ATTLIST company
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT duration (#PCDATA)>
+<!ATTLIST duration
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT location (#PCDATA)>
+<!ATTLIST location
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT taskone (#PCDATA)>
+<!ATTLIST taskone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT tasktwo (#PCDATA)>
+<!ATTLIST tasktwo
+  xmlns CDATA #FIXED ''>

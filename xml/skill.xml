@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Skills SYSTEM "./dtd/skill.dtd">
+<Skills>
+  <skill>
+    <title>ASP.NET</title>
+  </skill>
+  <skill>
+    <title>Java</title>
+  </skill>
+  <skill>
+    <title>PHP</title>
+  </skill>
+  <skill>
+    <title>Front-End Development</title>
+  </skill>
+  <skill>
+    <title>Node.JS</title>
+  </skill>
+  <skill>
+    <title>MongoDB</title>
+  </skill>
+  <skill>
+    <title>Express.JS</title>
+  </skill>
+  <skill>
+    <title>API Development</title>
+  </skill>
+  <skill>
+    <title>SQL</title>
+  </skill>
+  <skill>
+    <title>C#/C/C++</title>
+  </skill>
+  <skill>
+    <title>Ajax</title>
+  </skill>
+  <skill>
+    <title>Kotlin</title>
+  </skill>
+  <skill>
+    <title>Mobile App Development</title>
+  </skill>
+  <skill>
+    <title>Unity</title>
+  </skill>
+  <skill>
+    <title>Game Development</title>
+  </skill>
+</Skills>

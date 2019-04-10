@@ -1,0 +1,13 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Skills (skill)+>
+<!ATTLIST Skills
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT skill (title)>
+<!ATTLIST skill
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>

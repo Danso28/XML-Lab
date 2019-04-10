@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Projects (project)+>
+<!ATTLIST Projects
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT project (name,summary,skills-used)>
+<!ATTLIST project
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT summary (#PCDATA)>
+<!ATTLIST summary
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT skills-used (#PCDATA)>
+<!ATTLIST skills-used
+  xmlns CDATA #FIXED ''>

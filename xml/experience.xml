@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Experience SYSTEM "./dtd/experience.dtd">
+<Experience>
+  <company>
+    <name>Alfred University</name>
+    <duration>Apirl 2017 - Present</duration>
+    <location> Alfred,Ny</location>
+    <taskone>Made changes and updates to preexisting pages</taskone>
+    <tasktwo>Help launched New Website </tasktwo>
+    <taskthree>Migrate older files and pages to new site</taskthree>
+  </company>
+  <company>
+    <name>Selective Insurance </name>
+    <duration>May 2018 - August 2018</duration>
+    <location>Branchville,Nj</location>
+    <taskone>Developed skills in ASP.Net by coding projects</taskone>
+    <tasktwo>Participated in Code Reviews and used version control tools</tasktwo>
+    <taskthree>Presented on Small Business acquisition and retention</taskthree>
+  </company>
+  <company>
+    <name>NanoMaterials Innovation Center</name>
+    <duration>November 2012 - August 2013</duration>
+    <location> Alfred, Ny</location>
+    <taskone>Researched and executed ideas for pilot scale commercialization of various material for local and national companies </taskone>
+    <tasktwo>Designed various experimentation using microwave sintering and inferred heating to synthesized powders</tasktwo>
+    <taskthree>Used microwave heating to sintered various chemical composition and coatings.</taskthree>
+  </company>
+</Experience>

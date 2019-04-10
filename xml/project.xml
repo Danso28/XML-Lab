@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Projects SYSTEM "./dtd/project.dtd">
+<Projects>
+  <project>
+    <name>Text based Coffeeshop App</name>
+    <summary>
+      This application used UIKit, PHP, AJAX, CSS/Javascript, HTML
+    </summary>
+    <skills-used>
+      UIKit, PHP, AJAX, CSS/Javascript, HTML
+    </skills-used>
+  </project>
+  <project>
+    <name>Life of Wahl</name>
+    <summary>
+      Created a Tower-defense Game using Unity and Maya with a group of like mind developers in 72 hours
+    </summary>
+    <skills-used>
+      	Unity and Maya
+    </skills-used>
+  </project>
+  <project>
+    <name>RailRoad Run</name>
+    <summary>
+      Created a Railroad unity-based interface for a Cubelets.
+    </summary>
+    <skills-used>
+       Maya, Unity, and Raspberry-Pie.
+    </skills-used>
+  </project>
+  <project>
+    <name>Aquatic Attack</name>
+    <summary>
+      Created a Tactical RPG game using Unity and OOP concepts.
+    </summary>
+    <skills-used>
+      Unity
+    </skills-used>
+  </project>
+</Projects>
